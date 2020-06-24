@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\bin\Debug\netcoreapp3.1\Aula 24 - Carrinho.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\bin\Debug\netcoreapp3.1\Aula 24 - Carrinho.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\bin\Debug\netcoreapp3.1\Aula 24 - Carrinho.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\bin\Debug\netcoreapp3.1\Aula 24 - Carrinho.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\bin\Debug\netcoreapp3.1\Aula 24 - Carrinho.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\bin\Debug\netcoreapp3.1\Aula 24 - Carrinho.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\obj\Debug\netcoreapp3.1\Aula 24 - Carrinho.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\obj\Debug\netcoreapp3.1\Aula 24 - Carrinho.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\obj\Debug\netcoreapp3.1\Aula 24 - Carrinho.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\obj\Debug\netcoreapp3.1\Aula 24 - Carrinho.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\obj\Debug\netcoreapp3.1\Aula 24 - Carrinho.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\obj\Debug\netcoreapp3.1\Aula 24 - Carrinho.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 24 - Carrinho\obj\Debug\netcoreapp3.1\Aula 24 - Carrinho.genruntimeconfig.cache
